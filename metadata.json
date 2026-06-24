@@ -1,0 +1,6 @@
+{
+  "name": "音库Agent智能生产平台",
+  "description": "一个用于管理音频资源、编排Agent工作流、执行数据处理任务并进行人工质检的智能平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
